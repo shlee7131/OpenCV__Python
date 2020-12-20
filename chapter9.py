@@ -1,6 +1,6 @@
 ''' Face Detection '''
 ''' 
-- Haar Cascade xml 파일을 통해 검출
+- Haar Cascade xml 파일을 통해 검출한다
 - Positive Faces / Negative Faces 정보 -> 다단계 기계 학습
 '''
 import cv2
